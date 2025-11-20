@@ -29,7 +29,7 @@ body {
 
 .quote-text {
     font-size: 24px;
-    font-weight: 900;
+    font-weight: bold;
     color: #2c2c2c;
     line-height: 1.5;
     margin-bottom: 20px;
