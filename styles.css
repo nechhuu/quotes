@@ -29,7 +29,7 @@ body {
 
 .quote-text {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 900;
     color: #2c2c2c;
     line-height: 1.5;
     margin-bottom: 20px;
@@ -38,6 +38,7 @@ body {
 .quote-author {
     text-align: right;
     font-size: 16px;
+    font-weight: 600;
     color: #4a4a4a;
     margin-bottom: 30px;
 }
