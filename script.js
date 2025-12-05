@@ -6,10 +6,9 @@ const newQuoteBtn = document.getElementById('newQuoteBtn');
 const API_URL = 'https://api.api-ninjas.com/v2/randomquotes';
 const API_KEY = 'c2D7ZuSEaNV/6SMFNlbpWA==sAJVuUACwLt8rLQn';
 
-// Fetch a random quote from the API
 async function getRandomQuote() {
     try {
-        // Disable button and show loading state
+
         newQuoteBtn.disabled = true;
         quoteElement.classList.add('loading');
         authorElement.classList.add('loading');
