@@ -61,7 +61,7 @@ body {
 }
 
 .new-quote-btn:hover {
-    background-color: #00acc1;
+    background-color: #17C6FE;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px #17C6FE(0, 188, 212, 0.4);
 }
